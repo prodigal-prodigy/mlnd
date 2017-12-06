@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Machine Learning Engineer Nanodegree
 # Reinforcement Learning
 ## Project: Train a Smartcab How to Drive
@@ -20,6 +19,3 @@ In a terminal or command window, navigate to the top-level project directory `sm
 ```python -m smartcab.agent```
 
 This will run the `agent.py` file and execute your agent code.
-=======
-# mlnd
->>>>>>> fbfd395c49f1d2b5c54955f63983de42c1ff7524
